@@ -13,9 +13,9 @@ body {
 
 main {
     background-color: var(--white-color);
-    height: 31.25rem;
-    width: 20rem;
-    padding: 1.5rem 1.5rem 2.5rem 1.5rem;
+    height: 49.9rem;
+    width: 32rem;
+    padding: 1.6rem 1.6rem 4rem 1.6rem;
     border-radius: 1.25rem;
     box-shadow: .0625rem .9375rem 1.25rem rgb(0, 0, 0, 0.1);
 }
@@ -27,7 +27,7 @@ main {
 }
 
 .container__image {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2.4rem;
 }
 
 .container__image img {
@@ -35,9 +35,9 @@ main {
 }
 
 .container__text {
-    width: 18rem;
-    height: 8.1875rem;
-    padding: 0 1rem;
+    width: 28.8rem;
+    height: 13.1rem;
+    padding: 0 1.6rem;
 }
 
 .container__text--bold {
